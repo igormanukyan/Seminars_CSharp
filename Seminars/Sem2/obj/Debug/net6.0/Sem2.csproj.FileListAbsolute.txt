@@ -1,0 +1,15 @@
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/bin/Debug/net6.0/Sem2
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/bin/Debug/net6.0/Sem2.deps.json
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/bin/Debug/net6.0/Sem2.runtimeconfig.json
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/bin/Debug/net6.0/Sem2.dll
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/bin/Debug/net6.0/Sem2.pdb
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.csproj.AssemblyReference.cache
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.AssemblyInfoInputs.cache
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.AssemblyInfo.cs
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.csproj.CoreCompileInputs.cache
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.dll
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/refint/Sem2.dll
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.pdb
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/Sem2.genruntimeconfig.cache
+/Users/igormanukan/Desktop/SeminarsC#/Seminars/Sem2/obj/Debug/net6.0/ref/Sem2.dll
